@@ -3,6 +3,7 @@
 * [Zalando](https://zalando.it/)
 * [Subito.it](https://subito.it/)
 * [Vinted](https://vinted.it/)
+* [eBay](https://ebay.it/)
 * [SHEIN](https://m.shein.com/it/)
 * [TEMU](https://www.temu.com/it)
 * [Phoneshock](https://www.phoneshock.it/)
